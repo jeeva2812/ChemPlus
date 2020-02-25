@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/events_item"
+        android:title="Events" />
+    <item
+        android:id="@+id/workshop_item"
+        android:title="Workshop" />
+    <item
+        android:id="@+id/schedule_item"
+        android:title="Schedule" />
+</menu>
