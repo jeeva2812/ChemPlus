@@ -21,7 +21,7 @@ public class WorkshopActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_workshop);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_main);
         toolbar.setNavigationIcon(R.drawable.ic_menu_manage);
         setSupportActionBar(toolbar);
 
